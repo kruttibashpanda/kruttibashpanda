@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kruttibash Panda
 
-<!--
-**kruttibashpanda/kruttibashpanda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech Computer Science student building web projects and exploring applied machine learning.
 
-Here are some ideas to get you started:
+## Featured projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Brain Tumor Detection Using Deep Learning](https://github.com/kruttibashpanda/Brain-Tumor-Detection-Using-Deep-Learning)  
+  An experimental MRI image-classification project using Python, Flask, TensorFlow/Keras, and a Jupyter notebook.
+
+- [Freelance Marketplace](https://github.com/kruttibashpanda/Freelance-Marketplace)  
+  A full-stack marketplace project with a React/Vite frontend and an Express/MongoDB backend.
+
+## Technologies used in my projects
+
+- **Languages:** Java, JavaScript, Python
+- **Frontend:** HTML, CSS, React, Vite, Three.js
+- **Backend:** Java Servlets/JSP, Node.js, Express, Flask
+- **Databases:** MySQL, MongoDB
+- **Machine learning:** TensorFlow/Keras, Jupyter
+
+## Connect
+
+- [GitHub profile](https://github.com/kruttibashpanda)
